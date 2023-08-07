@@ -1,4 +1,4 @@
-# batch-size-vs-iteration
+# The Relationship of Batch Size and Number of Iterations
 This small experiment attempts to address the following questions:
 
 1) Do we need to increase the number of epochs, i.e., fix the number of iterations, as we increase the batch size?
